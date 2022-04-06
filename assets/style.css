@@ -1,0 +1,59 @@
+#startgame{
+    text-align: center;
+    margin-left: 47%;
+}
+
+
+
+#timer{
+    text-align: right;
+    color:red;
+    font-size: 50px;;
+}
+
+
+#question{
+    text-align: center;
+    font-size: 40px;
+}
+
+#style{
+    text-align: center;
+    font-size: 30px;
+    
+    text-align: center;
+    
+    
+    
+}
+#gameover{
+    text-align: center;
+    font-size: 100px;
+}
+
+#correct{
+    text-align: center;
+    color:green;
+    font-size: 50px;
+}
+
+#answer1:hover{
+    background-color: grey;
+    color:white;
+    cursor: pointer;
+}
+#answer2:hover{
+    background-color: grey;
+    color:white;
+    cursor: pointer;
+}
+#answer3:hover{
+    background-color: grey;
+    color:white;
+    cursor: pointer;
+}
+#answer4:hover{
+    background-color: grey;
+    color:white;
+     cursor: pointer;
+}
