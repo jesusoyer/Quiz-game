@@ -1,59 +1,34 @@
-#startgame{
-    text-align: center;
-    margin-left: 47%;
-}
-
-
-
-#timer{
-    text-align: right;
-    color:red;
-    font-size: 50px;;
-}
-
-
-#question{
-    text-align: center;
-    font-size: 40px;
-}
-
-#style{
-    text-align: center;
-    font-size: 30px;
-    
-    text-align: center;
-    
-    
-    
-}
-#gameover{
-    text-align: center;
-    font-size: 100px;
-}
-
-#correct{
-    text-align: center;
-    color:green;
+.quizIntroClass{
     font-size: 50px;
+    text-align: center;
+}
+.startButton{
+    width: 50%;
+    margin-left: 25%;
+  
 }
 
-#answer1:hover{
-    background-color: grey;
-    color:white;
-    cursor: pointer;
+.mainQuestion{
+    font-size: 50px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 25%;
+   
 }
-#answer2:hover{
-    background-color: grey;
-    color:white;
-    cursor: pointer;
+
+.buttonAnswers{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 100px;
+    margin-right: 10px;
+    margin-left: 10px;
+
 }
-#answer3:hover{
-    background-color: grey;
-    color:white;
-    cursor: pointer;
+.validation{
+    margin-top: 12px;
 }
-#answer4:hover{
-    background-color: grey;
-    color:white;
-     cursor: pointer;
+.gameOverMessageClass{
+    margin-right: 40%;
+    font-size: 50px;
+    
 }
